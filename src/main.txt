@@ -1,0 +1,2 @@
+Arquivo inicial do projeto.
+Adicione aqui o código-fonte principal conforme a stack escolhida.
