@@ -31,3 +31,21 @@ O projeto tem como foco a organização de um ambiente completo de desenvolvimen
 ---
 
 ## 📁 Estrutura do Projeto
+
+```bash
+meu-projeto-dio/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── src/
+│   └── main.txt
+├── docs/
+│   └── anotacoes.md
+├── assets/
+│   └── preview.png
+├── database/
+│   └── schema.sql
+├── figma/
+│   └── link-figma.md
+└── setup/
+    └── tecnologias.md
